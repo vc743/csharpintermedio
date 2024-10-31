@@ -12,3 +12,4 @@ C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstA
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
 C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
