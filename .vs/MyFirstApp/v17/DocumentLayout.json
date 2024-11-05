@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\myfirstapp\\refactorizar\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\refactorizar\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\classes\\coursesubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\classes\\coursesubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\myfirstapp\\refactorizar\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A720000-D8BF-4DC7-A09D-EA09F8B5689E}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\refactorizar\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\classes\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\classes\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\classes\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\classes\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\classes\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\classes\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\classes\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\classes\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|c:\\users\\contreras vargas\\onedrive\\desktop\\itla-victor\\csharpintermedio\\myfirstapp\\solid-refactor\\interfaces\\isubscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056547DF-A79C-4403-A2C3-C80500FE520A}|SOLID-Refactor\\SOLID-Refactor.csproj|solutionrelative:solid-refactor\\interfaces\\isubscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubscribe.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Interfaces\\ISubscribe.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Interfaces\\ISubscribe.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Interfaces\\ISubscribe.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Interfaces\\ISubscribe.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:43:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:38:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\OnlineCourse.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Classes\\OnlineCourse.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\OnlineCourse.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Classes\\OnlineCourse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:33:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Classes\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\CourseRepository.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Classes\\CourseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:30:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\EmailService.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Classes\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\EmailService.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Classes\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:25:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\CourseSubscription.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Classes\\CourseSubscription.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\CourseSubscription.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Classes\\CourseSubscription.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:30:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Program.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Program.cs*",
+              "RelativeToolTip": "SOLID-Refactor\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:21:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID-Refactor\\Classes\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\SOLID-Refactor\\Classes\\PaymentProcessor.cs",
+              "RelativeToolTip": "SOLID-Refactor\\Classes\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:35:20.007Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -35,45 +159,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Refactorizar\\Inventario.cs",
-              "RelativeDocumentMoniker": "MyFirstApp\\Refactorizar\\Inventario.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Refactorizar\\Inventario.cs",
-              "RelativeToolTip": "MyFirstApp\\Refactorizar\\Inventario.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:52:41.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Refactorizar\\Producto.cs",
-              "RelativeDocumentMoniker": "MyFirstApp\\Refactorizar\\Producto.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Refactorizar\\Producto.cs",
-              "RelativeToolTip": "MyFirstApp\\Refactorizar\\Producto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:52:13.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Contreras Vargas\\OneDrive\\Desktop\\ITLA-Victor\\csharpintermedio\\MyFirstApp\\MyFirstApp\\Program.cs",
-              "RelativeToolTip": "MyFirstApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T17:30:03.414Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\bin\Debug\net8.0\SOLID-Refactor.exe
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\bin\Debug\net8.0\SOLID-Refactor.deps.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\bin\Debug\net8.0\SOLID-Refactor.runtimeconfig.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\bin\Debug\net8.0\SOLID-Refactor.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\bin\Debug\net8.0\SOLID-Refactor.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.AssemblyInfoInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.AssemblyInfo.cs
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.csproj.CoreCompileInputs.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.sourcelink.json
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\refint\SOLID-Refactor.dll
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.pdb
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\SOLID-Refactor.genruntimeconfig.cache
+C:\Users\Contreras Vargas\OneDrive\Desktop\ITLA-Victor\csharpintermedio\MyFirstApp\SOLID-Refactor\obj\Debug\net8.0\ref\SOLID-Refactor.dll
