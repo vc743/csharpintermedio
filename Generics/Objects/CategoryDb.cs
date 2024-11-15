@@ -13,6 +13,11 @@ namespace Generics.Objects
             this.categories = categories;
         }
 
+        public Category GetCategoryById(int Id)
+        {
+            return this.categories.FirstOrDefault(c => c.CategoryId == Id);
+        }
+
         public async Task<bool> Exists(Func<Category, bool> filter)
         {
             var result = this.categories.Any(filter);
@@ -38,11 +43,11 @@ namespace Generics.Objects
         {
             List<CategoryResult> categoryResults = new List<CategoryResult>();
 
-            categoryResults = this.categories.Where(filter).Select(cd => new CategoryResult()
+            categoryResults = this.categories.Where(filter).Select(c => new CategoryResult()
             {
-                CategoryId = cd.CategoryId,
-                CategoryName = cd.CategoryName,
-                Description = cd.Description
+                CategoryId = c.CategoryId,
+                CategoryName = c.CategoryName,
+                Description = c.Description
             }).ToList();
 
             return await Task.FromResult<List<CategoryResult>>(categoryResults);
@@ -52,7 +57,7 @@ namespace Generics.Objects
         {
             CategoryResult categoryResult = new CategoryResult();
 
-            var category = this.categories.FirstOrDefault(c => c.CategoryId == Id);
+            var category = GetCategoryById(Id);
 
             categoryResult.CategoryId = category.CategoryId;
             categoryResult.CategoryName = category.CategoryName;
@@ -65,7 +70,7 @@ namespace Generics.Objects
         {
             CategoryResult categoryResult = new CategoryResult();
 
-            var category = this.categories.FirstOrDefault(c => c.CategoryId == entity.CategoryId);
+            var category = GetCategoryById(entity.CategoryId);
 
             this.categories.Remove(category);
 
